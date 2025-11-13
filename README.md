@@ -51,9 +51,9 @@ npm run dev
 4️⃣ Open in browser
 http://localhost:5173
 
+## 🖼️ Preview  
 
-🖼️ Preview
-![Preview](https://github.com/Yashika-code/DesignPage_CodeCombat/blob/main/src/assets/Preview.png)
+![Preview](https://github.com/Yashika-code/DesignPage_CodeCombat/blob/main/CodeCombat/src/assets/Preview.png)
 
 🧑‍🏫 Learnings
 While building this project, I learned to:
