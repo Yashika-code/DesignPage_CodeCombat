@@ -53,7 +53,7 @@ http://localhost:5173
 
 
 🖼️ Preview
-https://github.com/Yashika-code/DesignPage_CodeCombat/blob/main/src/assets/Preview.png
+![Preview](https://github.com/Yashika-code/DesignPage_CodeCombat/blob/main/src/assets/Preview.png)
 
 🧑‍🏫 Learnings
 While building this project, I learned to:
